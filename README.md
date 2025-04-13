@@ -1,8 +1,4 @@
 # SUPER TRUNFO EM C [LÓGICA]
-  </div>
-  <div style="display: inline_block"><br>
-  <img align="right" height="600" width="600" src="https://static.wikia.nocookie.net/videogamebrasileiro/images/b/bb/Turbo_Game_CCE_VG-9000T_caixa_frente.jpg/revision/latest?cb=20220802002742&path-prefix=pt-br" />
-</div>
 
 🛠️ Pré-requisitos
 - Tenha o compilador C instalado.
