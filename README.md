@@ -1,5 +1,29 @@
 # SUPER TRUNFO EM C
 
+🛠️ Pré-requisitos
+Tenha o compilador C instalado.
+No Linux/macOS, o GCC geralmente já está disponível ou pode ser instalado com um comando.
+
+Linux (Debian/Ubuntu): sudo apt install build-essential
+macOS: xcode-select --install
+Windows: Use o MinGW ou o WSL com GCC
+
+1. Abra o terminal ou prompt de comando
+2. Navegue até a pasta onde está seu arquivo
+3. Compile com o GCC
+
+cd /caminho/para/o/arquivo
+'''gcc programa.c -o programa''
+
+4. Execute o programa compilado
+
+No Linux/macOS:
+'''./programa'''
+
+No Windows:
+'''programa.exe'''
+
+
 
 
 
