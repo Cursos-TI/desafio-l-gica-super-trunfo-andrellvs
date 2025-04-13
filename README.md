@@ -1,4 +1,4 @@
-# SUPER TRUNFO EM C
+# SUPER TRUNFO EM C [LÓGICA]
 
 🛠️ Pré-requisitos
 Tenha o compilador C instalado.
