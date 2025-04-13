@@ -13,7 +13,7 @@ Windows: Use o MinGW ou o WSL com GCC
 3. Compile com o GCC
 
 cd /caminho/para/o/arquivo
-'''gcc programa.c -o programa''
+```shell gcc programa.c -o programa```
 
 4. Execute o programa compilado
 
