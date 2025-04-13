@@ -1,7 +1,7 @@
 # SUPER TRUNFO EM C [LÓGICA]
   </div>
   <div style="display: inline_block"><br>
-  <img align="right" height="600" width="600" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.androidlista.com.br%2Fitem%2Fandroid-apps%2F531057%2Fsuper-trunfo-battle-cards%2F&psig=AOvVaw0R3TNxHr2dnflatsf0XFF6&ust=1744593394455000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCMjGmf_q04wDFQAAAAAdAAAAABAc" />
+  <img align="right" height="600" width="600" src="[https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.androidlista.com.br%2Fitem%2Fandroid-apps%2F531057%2Fsuper-trunfo-battle-cards%2F&psig=AOvVaw0R3TNxHr2dnflatsf0XFF6&ust=1744593394455000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCMjGmf_q04wDFQAAAAAdAAAAABAc](https://cdn.slidesharecdn.com/ss_thumbnails/supertrunfobattlecards11-140410150714-phpapp01-thumbnail.jpg?width=640&height=640&fit=bounds)" />
 </div>
 
 🛠️ Pré-requisitos
