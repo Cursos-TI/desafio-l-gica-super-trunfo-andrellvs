@@ -34,14 +34,14 @@ gcc programa.c -o programa
 4. Execute o programa compilado
 No Linux/macOS:
 ```shell 
-./programa'''
+./programa
 ```
 No Windows:
 ```shell 
-programa.exe'''
+programa.exe
 ```
 
-# INSTRUÇÕES
+# INSTRUÇÕES DO JOGO:
 1) USE DUAS CARTAS DE SUPER TRUNFO PARA JOGAR
 2) DIGITE OS ATRIBUTOS, UMA CARTA POR VEZ:
 -   LETRA DA CARTA (A,B,C,D,E,F,G,H)
