@@ -11,25 +11,38 @@ Windows: Use o MinGW ou o WSL com GCC
 1. Abra o terminal ou prompt de comando
 2. Navegue até a pasta onde está seu arquivo
 3. Compile com o GCC
-
+```shell 
 cd /caminho/para/o/arquivo
+```
 ```shell 
 gcc programa.c -o programa
 ```
-
 4. Execute o programa compilado
-
 No Linux/macOS:
 ```shell 
 ./programa'''
 ```
-
-
 No Windows:
 ```shell 
 programa.exe'''
 ```
 
+# INSTRUÇÕES
+1) USE DUAS CARTAS DE SUPER TRUNFO PARA JOGAR
+2) DIGITE OS ATRIBUTOS, UMA CARTA POR VEZ:
+   LETRA DA CARTA (A,B,C,D,E,F,G,H)
+   CODIGO DA CARTA (EX: A00, A01,A02,103...)
+   NOME DO PAÍS DA CARTA
+   POPULAÇÃO
+   AREA
+   PIB
+   NUMERO DE PONTOS TURÍSTICOS
+3) AO ENTRAR NO COMPARADOR DE CARTAS, DIGITE UM NUMERO DE 1 A 6
+PARA ESCOLHER O PRIMEIRO ATRIBUTO, E DEPOIS O SEGUNDO.
+
+AO FINAL ELE APRESENTARÁ A CARTA VENCEDORA!
+   
+   
 
 
 
