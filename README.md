@@ -1,4 +1,5 @@
-# SUPER TRUNFO EM C [LÓGICA]
+# SUPER TRUNFO EM C
+# Desenvolvendo a Lógica do Jogo
 
 🛠️ Pré-requisitos
 - Tenha o compilador C instalado.
