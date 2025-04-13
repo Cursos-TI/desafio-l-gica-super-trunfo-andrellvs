@@ -1,5 +1,18 @@
 # SUPER TRUNFO EM C
 # Desenvolvendo a Lógica do Jogo
+</div>
+  <div style="display: inline_block"><br>
+  <img height="350" width="850" src="https://i0.wp.com/romirplayhouse.com/wp-content/uploads/2023/06/1474A0A7-EDAD-4693-9468-7CE0CC967CBB.jpeg?w=620&ssl=1" />
+</div>
+
+# COMPILAÇÃO:
+
+
+
+
+
+
+
 
 🛠️ Pré-requisitos
 - Tenha o compilador C instalado.
