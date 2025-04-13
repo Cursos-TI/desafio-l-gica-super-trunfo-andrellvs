@@ -1,12 +1,12 @@
 # SUPER TRUNFO EM C [LÓGICA]
 
 🛠️ Pré-requisitos
-Tenha o compilador C instalado.
-No Linux/macOS, o GCC geralmente já está disponível ou pode ser instalado com um comando.
+- Tenha o compilador C instalado.
+- No Linux/macOS, o GCC geralmente já está disponível ou pode ser instalado com um comando.
 
-Linux (Debian/Ubuntu): sudo apt install build-essential
-macOS: xcode-select --install
-Windows: Use o MinGW ou o WSL com GCC
+- Linux (Debian/Ubuntu): sudo apt install build-essential
+- macOS: xcode-select --install
+- Windows: Use o MinGW ou o WSL com GCC
 
 1. Abra o terminal ou prompt de comando
 2. Navegue até a pasta onde está seu arquivo
